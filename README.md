@@ -10,11 +10,11 @@ This program finds such pairs of categorical values in a specific class to impro
 This software is a Matlab implementation of AHD method, highy specialized on problems of categorical data set classification. The original version of this program was written by Jae-Sung Lee.
 
 ### [Paper]
-The main technical ideas behind how this program works appear in these papers:
+<!-- The main technical ideas behind how this program works appear in these papers: -->
 
 Jae-Sung Lee, and Dae-Won Kim, [“Classifying Categorical Data Based on Adoptive Hamming Distance,”](https://www.jstage.jst.go.jp/article/transinf/E93.D/1/E93.D_1_189/_article/-char/ja/) IEICE Transactions on Information and Systems E93-D(1):189-192, 2010.
 
-R. Paredes and E. Vidal, [“A class-dependent weighted dissimilarity measure for nearest neighbor classification problem,”](https://www.sciencedirect.com/science/article/pii/S0167865500000647?via%3Dihub) Pattern Recognition 21(12):1027-1036, 2000.
+<!-- R. Paredes and E. Vidal, [“A class-dependent weighted dissimilarity measure for nearest neighbor classification problem,”](https://www.sciencedirect.com/science/article/pii/S0167865500000647?via%3Dihub) Pattern Recognition 21(12):1027-1036, 2000. -->
 
 
 ## License
